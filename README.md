@@ -16,3 +16,13 @@ The system splits documents into chunks, generates embeddings, stores them in a 
 - `main.py` – Orchestrates the full RAG pipeline.
 - `requirements.txt` – Python dependencies.
 - `.env` – Environment variables like API keys.
+
+## Technologies Used
+
+- Python 3.x
+- OpenAI / Cohere Embeddings
+- FAISS / Pinecone / Milvus
+- LangChain
+- FastAPI
+- Uvicorn
+- Pandas, NumPy
